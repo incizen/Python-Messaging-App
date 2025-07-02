@@ -7,7 +7,7 @@ This is a simple messaging app that was built by using python sockets and thread
 ## How to run 
 1. Clone the repo:
    ```
-   (https://github.com/incizen/Python-Messaging-App)
+   https://github.com/incizen/Python-Messaging-App.git
    cd Messaging App
    ```
 
