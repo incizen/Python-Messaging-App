@@ -5,7 +5,6 @@ This is a simple messaging app that was built by using python sockets and thread
 - Python3
 
 ## How to run 
-
 1. Clone the repo:
    ```
    (https://github.com/incizen/Python-Messaging-App)
